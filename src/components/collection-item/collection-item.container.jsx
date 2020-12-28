@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mutation, Query } from 'react-apollo';
+import { Mutation } from 'react-apollo';
 import { gql } from 'apollo-boost';
 import CollectionItem from './collection-item.component';
 
